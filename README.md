@@ -4,6 +4,7 @@ The Insurance Prediction Model is a machine learning model built using PyTorch t
 
 ## Dataset
 The dataset used for training and evaluation can be found here. It consists of information about individuals, including their age, sex, BMI, number of children, smoker status, region, and insurance charges.
+DATASET_URL = "https://gist.github.com/BirajCoder/5f068dfe759c1ea6bdfce9535acdb72d/raw/c84d84e3c80f93be67f6c069cbdc0195ec36acbd/insurance.csv"
 
 ## Model Architecture
 The Insurance Prediction Model is a simple linear regression model implemented using PyTorch. It consists of a single linear layer that takes the input features and predicts the insurance charges.
